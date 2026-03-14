@@ -1,6 +1,6 @@
-JSON
-{
-  "versionCode": 2,
-  "versionName": "2.0",
-  "apkUrl": "https://github.com/kommakarthikreddykkr-tech/mitsapp/releases/latest/download/app-release.apk"
-}
+    {
+      "versionCode": 2,
+      "versionName": "2.0",
+      "apkUrl": "https://github.com/kommakarthikreddykkr-tech/mitsapp/releases/latest/download/app-debug.apk"
+    }
+    
